@@ -1,1 +1,1 @@
-# footfall_data_analysis
+The main objective of the York footfall analysis was to examine pedestrian traffic across four major streets in York during 2019, with the goal of identifying the best location to set up a promotional stall. The analysis aimed to determine which street experienced the highest foot traffic overall and on specific days (e.g., weekdays vs. weekends) to guide data-driven decisions for optimal visibility and impact.
