@@ -1,6 +1,6 @@
 ## York Footfall Analysis – Location Optimisation Using R
 
-## 🔗 Live Report
+## Live Report
 View the full interactive analysis here:  
 https://yourusername.github.io/your-repo-name/York%20Footfall%20Analysis.html
 
