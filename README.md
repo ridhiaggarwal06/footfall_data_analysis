@@ -1,5 +1,9 @@
 ## York Footfall Analysis – Location Optimisation Using R
 
+## 🔗 Live Report
+View the full interactive analysis here:  
+https://yourusername.github.io/your-repo-name/York%20Footfall%20Analysis.html
+
 #### Project Summary
 A data analytics and statistical modelling project analysing pedestrian footfall in York city centre to support location optimisation for a promotional stall. Using R, tidyverse, data visualisation, and hypothesis testing, I compared Coney Street vs Stonegate to deliver a data-driven business recommendation.
 
