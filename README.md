@@ -16,15 +16,14 @@ A promoter needed to identify the highest-traffic retail location to maximise vi
 * Data Preparation: Integrity checks, filtering, feature creation (weekend flag)
 
 #### Tools & Technical Skills
-* Programming: R
 * Libraries: tidyverse, dplyr, ggplot2
 * Analytics Techniques:
-* Data cleaning & validation
-* Descriptive statistics
-* Data visualisation
-* Two-sample t-tests
-* Statistical inference
-* Business insight translation
+  - Data cleaning & validation
+  - Descriptive statistics
+  - Data visualisation
+  - Two-sample t-tests
+  - Statistical inference
+  - Business insight translation
 
 #### Methodology
 
